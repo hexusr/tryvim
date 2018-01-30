@@ -1,7 +1,9 @@
 # tryvim
 configurations of vim
-
 自己积累的一些常用vim配置
+
+
+安装:curl https://raw.githubusercontent.com/hexusr/tryvim/master/install.sh -L > ~/install.sh && sh ~/install.sh
 
 
 快捷键|作用
