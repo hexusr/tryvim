@@ -5,4 +5,4 @@ rm -rf ~/.vim
 cd ~/
 rm -rf ~/tryvim
 
-8 echo "卸载完毕!"                     
+echo "卸载完毕!"                     
