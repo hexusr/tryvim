@@ -8,6 +8,11 @@ configurations of vim
 curl https://raw.githubusercontent.com/hexusr/tryvim/master/install.sh -L > ~/install.sh && sh ~/install.sh
 ```
 
+卸载:
+```
+curl https://raw.githubusercontent.com/hexusr/tryvim/master/install.sh -L > ~/uninstall.sh && sh ~/uninstall.sh
+```
+
 快捷键|作用
 ----|------
 q |退出当前窗口
@@ -15,6 +20,6 @@ Q |全部退出
 Q! |全部强制退出
 F3|打开、关闭目录树
 [w  |切换窗口
-\1……9|  切换到标签1……9
+\1……9|  切换到标签\窗口1……9
 [b|上一个缓冲区
 ]b|下一个缓冲区
