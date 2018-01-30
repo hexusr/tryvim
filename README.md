@@ -1,0 +1,2 @@
+# tryvim
+configurations of vim
